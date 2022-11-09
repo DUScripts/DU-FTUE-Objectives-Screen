@@ -44,11 +44,6 @@
 - NoobTheory (Dual Universe)
 
 # Other
-> **Note**
-> - This was originally a fork from (https://github.com/DorianTheGrey).
-> - Also Based on work by (https://github.com/paulheu).
-> - Also Based on work by (https://github.com/Jericho1060).
-
 > **Warning**
 > This may or may not work with some screens or signs. Please check list above for compatibility.
 
